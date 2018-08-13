@@ -1,0 +1,23 @@
+{
+  "name": "faux-amazon",
+  "version": "1.0.0",
+  "description": "This is an Amazon-like storefront using MYSQL. The app will take in orders from customers and deplete stock from the store's inventory.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dchen95/Faux-Amazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dchen95/Faux-Amazon/issues"
+  },
+  "homepage": "https://github.com/dchen95/Faux-Amazon#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
